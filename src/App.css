@@ -9,4 +9,25 @@
   color: white;
 }
 
+#inputField {
+  padding: 2vh;
+  margin: 2vh 2vh;
+  border: 2vh;
+  box-shadow: 10px 10px 15px 10px rgba(0, 0, 0, 0.06);
+  font-weight: inherit;
+  font-family:inherit;
+  font-weight: inherit;
+  font-size: inherit;
+  border-radius:10px;
+  color: #282c34;
+}
+
+#resultField {
+  font-size: 5vh;
+  font-family: inherit;
+  font-weight: bold;
+  margin: 2vh 2vh;
+  padding: 2vh;
+  display: block;
+}
 
