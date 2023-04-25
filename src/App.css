@@ -18,12 +18,12 @@
   font-family:inherit;
   font-weight: inherit;
   font-size: inherit;
-  border-radius:10px;
+  border-radius:2vh;
   color: #282c34;
 }
 
 #resultField {
-  font-size: 5vh;
+  font-size: 10vh;
   font-family: inherit;
   font-weight: bold;
   margin: 2vh 2vh;
